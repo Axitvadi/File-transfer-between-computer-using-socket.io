@@ -13,4 +13,4 @@ Include the above url in the environment file of the receiver
 
 Copy receiver folder to users' computers and run receiver.js
 
-And new file name test.pdf will add to receivers computer.
+And new file name test.pdf will add to receivers computer that are send from admin computer on connect .
