@@ -1,0 +1,31 @@
+{
+  "name": "ip-based-file-transfer",
+  "version": "1.0.0",
+  "description": "File transfer based on IP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axitvadi/IP-based-file-transfer.git"
+  },
+  "keywords": [
+    "IP",
+    "file",
+    "transfer"
+  ],
+  "author": "Axit Vadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axitvadi/IP-based-file-transfer/issues"
+  },
+  "homepage": "https://github.com/Axitvadi/IP-based-file-transfer#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1"
+  }
+}
